@@ -1,2 +1,2 @@
 # CODSOFT
- CodSoft Data Science Internship
+Data Science Internship
